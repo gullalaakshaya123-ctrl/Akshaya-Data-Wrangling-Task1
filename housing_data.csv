@@ -1,0 +1,12 @@
+Price,Area,Bedrooms,Bathrooms,Stories,Parking,FurnishingStatus,Year Built
+500000.0,1500.0,3.0,2.0,1,1.0,Furnished,2010
+650000.0,1800.0,4.0,3.0,2,2.0,Semi-Furnished,2015
+700000.0,2000.0,4.0,3.0,2,2.0,Unfurnished,2018
+,1700.0,3.0,2.0,1,1.0,,2012
+850000.0,,5.0,4.0,3,3.0,Furnished,2020
+600000.0,1600.0,,2.0,2,2.0,Semi-Furnished,2014
+750000.0,2100.0,4.0,3.0,2,,Furnished,2017
+900000.0,2500.0,5.0,,3,3.0,Unfurnished,2021
+620000.0,1750.0,3.0,2.0,1,1.0,Semi-Furnished,2011
+580000.0,1550.0,3.0,2.0,1,1.0,Furnished,2013
+700000.0,2000.0,4.0,3.0,2,2.0,Unfurnished,2018
